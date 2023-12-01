@@ -1,6 +1,7 @@
 # PowerBI---Project-1---Madhav-Store-Ecommerce
 PowerBI Data Analysis Project
 
+
 This repository hosts a data analysis project focused on the examination and analysis of sales from the Madhav Store Ecommerce furniture store.
 
 Within this project, I've crafted a dynamic dashboard that offers comprehensive insights into the dataset.
