@@ -19,4 +19,4 @@ Learnings From the Project :
   • Utilized various customized visualizations such as bar charts, pie charts, donut charts, clustered bar charts, scatter charts, line charts, area charts, maps, and slicers.
 
 
-  ![](2023-12-01 21_51_39-PowerBI - Project 1 - Madhav Store Ecommerce.png)
+  ![](https://github.com/shloktilokani/PowerBI---Project-1---Madhav-Store-Ecommerce/blob/main/2023-12-01%2021_51_39-PowerBI%20-%20Project%201%20-%20Madhav%20Store%20Ecommerce.png)
