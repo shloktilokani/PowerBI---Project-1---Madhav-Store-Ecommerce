@@ -8,7 +8,6 @@ Within this project, I've crafted a dynamic dashboard that offers comprehensive 
 
 In the process of exploring meaningful insights and reaching conclusions, I've embraced PowerBI as a new tool, broadening my analytical capabilities.
 
-
 Learnings From the Project :
 
   • Constructed an interactive dashboard to monitor and analyze online sales data.
