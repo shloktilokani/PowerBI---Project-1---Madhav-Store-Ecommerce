@@ -10,10 +10,10 @@ In the process of exploring meaningful insights and reaching conclusions, I've e
 
 Learnings From the Project :
 
-• Constructed an interactive dashboard to monitor and analyze online sales data.
+  • Constructed an interactive dashboard to monitor and analyze online sales data.
 
-• Employed intricate parameters to delve deeper into worksheets and customized views using filters and slicers.
+  • Employed intricate parameters to delve deeper into worksheets and customized views using filters and slicers.
 
-• Established connections, integrated new tables, performed calculations for data manipulation, and facilitated user-driven parameters for visualizations.
+  • Established connections, integrated new tables, performed calculations for data manipulation, and facilitated user-driven parameters for visualizations.
 
-• Utilized various customized visualizations such as bar charts, pie charts, donut charts, clustered bar charts, scatter charts, line charts, area charts, maps, and slicers.
+  • Utilized various customized visualizations such as bar charts, pie charts, donut charts, clustered bar charts, scatter charts, line charts, area charts, maps, and slicers.
