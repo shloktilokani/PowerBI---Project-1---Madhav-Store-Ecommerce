@@ -17,3 +17,6 @@ Learnings From the Project :
   • Established connections, integrated new tables, performed calculations for data manipulation, and facilitated user-driven parameters for visualizations.
 
   • Utilized various customized visualizations such as bar charts, pie charts, donut charts, clustered bar charts, scatter charts, line charts, area charts, maps, and slicers.
+
+
+  ![](2023-12-01 21_51_39-PowerBI - Project 1 - Madhav Store Ecommerce.png)
